@@ -2,3 +2,5 @@ spg/.vs/*
 spg/spg/spg.vcxproj.user
 spg/Debug/*
 spg/spg/Debug/*
+spg/x64/*
+spg/spg/x64/*
