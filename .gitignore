@@ -1,2 +1,4 @@
-spg/.vs/spg/v15/*
+spg/.vs/*
 spg/spg/spg.vcxproj.user
+spg/Debug/*
+spg/spg/Debug/*
